@@ -35,11 +35,17 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The preachers plea: or, A treatise in forme of a plain dialogue making known the worth and necessary
+
+1. To the honeſt and wel-diſpoſed Reader.
+
 #####Body#####
-The preachers plea: or, A treatise in forme of a plain dialogue making known the worth and necessary
+
+1. ❧The Preachers Plea: Or a Treatiſe in forme of a plaine Dialogue, making knowne the worth and neceſsitie of that which we call Preaching: ſhewing alſo how a man may profit by it, both for the informing of his iudgement, and the reforming of his life.
+
 #####Back#####
-The preachers plea: or, A treatise in forme of a plain dialogue making known the worth and necessary
+
+1. Faults eſcaped.
+
 **Types of content**
 
   * There are 170 **drama** parts! This is **prose drama**.
